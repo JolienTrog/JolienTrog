@@ -1,4 +1,4 @@
-![](https://github.com/JolienTrog/Jolien-Trog/blob/41663e813c926967ba05248c62b3fe805233e7d4/aboutme.jpg)
+![I am GitHub Readme Generator's creator](https://github.com/JolienTrog/JolienTrog/blob/8004d1a7e622f04624d4600e3c6553b047a968b8/aboutme.jpg)
 
 <h1>About me</h1>
 Hello my name is Jolien Trog and I want to become a Software Developer. 
