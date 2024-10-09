@@ -1,9 +1,13 @@
+![Jolien Foto](https://github.com/user-attachments/assets/938693ec-03e7-4c9c-95ec-f5cca69a4361)
 
 <h2>About me</h2>
 I am currently in my second year of vocational training to become an IT specialist for application development. I have a great apprenticeship at Icinga GmbH, where I’ve already learned a lot in my first year. I’ve had the chance to explore various fields such as Linux, Command line, SQL, API, networking basics, Git, GitLab, Docker, PHP, Raspberry Pi and (a little bit of) PowerShell. In vocational school, I practiced programming with C# in the first year, and now I'm working with Python in my second year. I'm still excited to discover the vast world of IT, though I now have a clearer sense of just how much there is left to learn!
 
 <h2> Repository </h2>
-
+<li>Syntax Exercise form C# to Python to PHP</li>
+<li>Nachtmarrie: MVC-Webdevelopment</li>
+<li>CLI Command: Cleanup backups (Icinga Web Modul)</li>
+<li>Audit: Auditing GitLab Berechtigungen</li>
 
 <h1>---------------- 2023 ----------------</h1>
 
